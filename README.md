@@ -1,3 +1,10 @@
+
+https://github.com/user-attachments/assets/a2eb12c8-c706-4bdc-8e65-c11842001edb
+
+
+[Live Demo](https://tubankara.github.io/gamerparadise/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
