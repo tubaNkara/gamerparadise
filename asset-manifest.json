@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gamerparadise/static/css/main.4e82f1c2.css",
+    "main.js": "/gamerparadise/static/js/main.8359b4e7.js",
+    "static/media/gamersh.webp": "/gamerparadise/static/media/gamersh.f39432d4cdefc22a5b08.webp",
+    "static/media/gamer.png": "/gamerparadise/static/media/gamer.ffa8e9a4ef1348364d14.png",
+    "index.html": "/gamerparadise/index.html",
+    "main.4e82f1c2.css.map": "/gamerparadise/static/css/main.4e82f1c2.css.map",
+    "main.8359b4e7.js.map": "/gamerparadise/static/js/main.8359b4e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e82f1c2.css",
+    "static/js/main.8359b4e7.js"
+  ]
+}
